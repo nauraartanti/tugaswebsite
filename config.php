@@ -1,6 +1,6 @@
 <?php
 $databaseHost = 'localhost';
-$databaseName = 'crud';
+$databaseName = 'webcrud';
 $databaseUsername = 'root';
 $databasePassword = '';
 
